@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "New Items",
+    "title": "Seasonal Delights",
+    "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39635ef680b2b983a59_menu-img-01-p-1080.webp",
+    "href": "/our-menu#seasonal"
+  },
+  {
+    "tag": "Our Specials",
+    "title": "Signature Dishes",
+    "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d398540e6568864b0107_menu-img-02-p-1080.webp",
+    "href": "/our-menu#specials"
+  },
+  {
+    "tag": "Sweet Endings",
+    "title": "Decadent Desserts",
+    "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39797098734f487347b_menu-img-03-p-1080.webp",
+    "href": "/our-menu#desserts"
+  }
+]

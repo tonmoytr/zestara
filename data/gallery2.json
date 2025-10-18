@@ -1,0 +1,13 @@
+{
+  "title": "Photo Gallery",
+  "topLeft": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1dd17801b8932f60209_gallery-img-01.webp",
+  "topRight": [
+    "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1dc0f2189cb63e5e2e2_gallery-img-02.webp",
+    "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1dd33a69d3666432919_gallery-img-03.webp"
+  ],
+  "bottomLeft": [
+    "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1dd96aa6150102b3121_gallery-img-04.webp",
+    "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1dde5d3a20fbfed8517_gallery-img-05.webp"
+  ],
+  "bottomRight": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825b1de776e52f358b6e966_gallery-img-06.webp"
+}

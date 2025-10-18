@@ -1,0 +1,36 @@
+{
+  "heroImage": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d396424347455a2369bb_05e8c3a24360709b5349f208eace7330_menu-image-03.webp",
+  "heading": "Desserts",
+  "trending": {
+    "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d394d2e248ca79941b58_menu-11.webp",
+    "name": "Warm Apple Cinnamon Pie",
+    "price": "$07.99",
+    "desc": "Fresh apples / cinnamon / butter / sugar / pie crust / nutmeg"
+  },
+  "items": [
+    {
+      "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d394540e6568864afd7f_menu-12.webp",
+      "name": "Classic Chocolate Lava Cake",
+      "price": "$08.49",
+      "desc": "Dark chocolate / butter / sugar / flour / vanilla essence"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d3950d4db7d19aa537bd_menu-13.webp",
+      "name": "Rich Red Velvet Cheesecake",
+      "price": "$09.99",
+      "desc": "Red velvet cake / cream cheese / sugar / vanilla / butter"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39564a1d39c2b767b41_menu-14.webp",
+      "name": "Creamy Tiramisu Delight",
+      "price": "$09.49",
+      "desc": "Espresso-soaked ladyfingers / mascarpone cheese / cocoa powder"
+    },
+    {
+      "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d395424347455a2368f6_menu-15.webp",
+      "name": "Pistachio & Rose Baklava",
+      "price": "$08.99",
+      "desc": "Phyllo dough / honey / pistachios / rose water / sugar / butter"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": ["All", "Interior", "Food", "People"],
+  "items": [
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6827026c0c52a10d883adf43_hero-img-01.webp",
+      "w": 1600,
+      "h": 1067,
+      "category": "Food",
+      "caption": "Seasonal platter"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6827026df668e7177b0d0fe9_hero-img-02.webp",
+      "w": 1600,
+      "h": 1067,
+      "category": "People",
+      "caption": "Chef at work"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6827026cd84845e7ad8e3d37_hero-img-03.webp",
+      "w": 1600,
+      "h": 1067,
+      "category": "Interior",
+      "caption": "Warm ambience"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d395f072321e7067d6dd_menu-image-01.webp",
+      "w": 1600,
+      "h": 1067,
+      "category": "Food",
+      "caption": "Appetizer spread"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d3956b387dbfa0d6492b_menu-image-02.webp",
+      "w": 1600,
+      "h": 1067,
+      "category": "Food",
+      "caption": "Main dish bowl"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d391cb53bb89d1d2c5ad_menu-02.webp",
+      "w": 1200,
+      "h": 1200,
+      "category": "Food",
+      "caption": "Stuffed peppers"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d391a2ec823531e55f64_menu-03.webp",
+      "w": 1200,
+      "h": 1200,
+      "category": "Food",
+      "caption": "Eggplant parmesan"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39197098734f4872ee4_menu-04.webp",
+      "w": 1200,
+      "h": 1200,
+      "category": "Food",
+      "caption": "Cheese lasagna"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39223af51dfadc073bc_menu-08.webp",
+      "w": 1200,
+      "h": 1200,
+      "category": "Food",
+      "caption": "Chickpea curry bowl"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39323af51dfadc07408_menu-10.webp",
+      "w": 1200,
+      "h": 1200,
+      "category": "Food",
+      "caption": "Zucchini boats"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6826d41039aa3af2159dfc70_ic-fresh.svg",
+      "w": 1200,
+      "h": 800,
+      "category": "Interior",
+      "caption": "Minimal detail"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6826d410f51ea24c62fbb702_ic-quality.svg",
+      "w": 1200,
+      "h": 800,
+      "category": "People",
+      "caption": "Service moment"
+    }
+  ]
+}

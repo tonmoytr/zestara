@@ -1,0 +1,80 @@
+[
+  {
+    "title": "APPETIZERS",
+    "sideImage": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d395f072321e7067d6dd_menu-image-01.webp",
+    "side": "left",
+    "items": [
+      {
+        "name": "Spicy Vegetable Biryani Rice",
+        "price": "$13.49",
+        "desc": "Basmati rice / mixed vegetables / saffron / whole spices",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d391b53e6ef7116b3276_menu-01.webp"
+      },
+      {
+        "name": "Stuffed Cheese Bell Peppers",
+        "price": "$11.99",
+        "desc": "Bell peppers / rice / black beans / tomatoes / cheese",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d391cb53bb89d1d2c5ad_menu-02.webp"
+      },
+      { "trendingLabel": "TRENDING / SEASON" },
+      {
+        "name": "Crispy Eggplant Parmesan Bake",
+        "price": "$10.99",
+        "desc": "Breaded eggplant / marinara sauce / mozzarella",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d391a2ec823531e55f64_menu-03.webp",
+        "trending": true
+      },
+      {
+        "name": "Classic Vegetable Cheese Lasagna",
+        "price": "$14.49",
+        "desc": "Lasagna sheets / tomato sauce / ricotta cheese / spinach",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39197098734f4872ee4_menu-04.webp"
+      },
+      {
+        "name": "Pesto Gnocchi with Parmesan",
+        "price": "$13.99",
+        "desc": "Potato gnocchi / basil pesto / parmesan / garlic",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d392b05a1e2212aa33ac_menu-05.webp"
+      }
+    ]
+  },
+  {
+    "title": "MAIN DISHES",
+    "sideImage": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d396770aff43c9a0d901_menu-image-02-p-2000.webp",
+    "side": "right",
+    "items": [
+      {
+        "name": "Creamy Paneer Butter Masala",
+        "price": "$12.99",
+        "desc": "Cottage cheese / tomato puree / butter / cream",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d3922da216f45a2565b8_menu-06.webp"
+      },
+      { "trendingLabel": "TRENDING / SEASON" },
+      {
+        "name": "Stuffed Mushrooms",
+        "price": "$23.99",
+        "desc": "Baked mushrooms / garlic / cream cheese / parmesan",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d392504e1813f5f654a1_menu-07.webp",
+        "trending": true
+      },
+      {
+        "name": "Chickpea Masala Curry Bowl",
+        "price": "$12.49",
+        "desc": "Chickpeas / tomatoes / onions / garlic / ginger / Indian spices",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39223af51dfadc073bc_menu-08.webp"
+      },
+      {
+        "name": "Thai Style Green Curry",
+        "price": "$15.99",
+        "desc": "Coconut milk / mixed vegetables / green curry paste / tofu",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d393944c73596f623342_2a1ef413efcfe25d671149c9b42ea4fc_menu-09.webp"
+      },
+      {
+        "name": "Cheesy Stuffed Zucchini Boats",
+        "price": "$12.49",
+        "desc": "Zucchini / quinoa / tomatoes / feta cheese / herbs",
+        "image": "https://cdn.prod.website-files.com/67a1a751729a973ff35d337a/6825d39323af51dfadc07408_menu-10.webp"
+      }
+    ]
+  }
+]
