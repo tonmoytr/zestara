@@ -1,19 +1,20 @@
 import Navbar from "@/app/components/shared/Navbar";
 import PageHeader from "@/app/components/shared/PageHeader";
+import TermsSection from "@/app/components/terms/TermsSection";
 
-export default function PrivacyPolicy() {
+export default function TermsPage() {
   return (
     <>
       <Navbar />
       <main>
         <PageHeader
           title="Privacy Policy"
-          content="We value your trust our Privacy Policy ensures your personal data is handled with care and transparency."
+          content="By accessing our restaurant services, you agree to our Terms & Conditions, ensuring a smooth & fair experience."
           // bgWord defaults to title; no need to pass
           align="left"
           size="xl"
         />
-        <PrivacyPolicy />
+        <TermsSection />
       </main>
     </>
   );

@@ -47,7 +47,7 @@ export default function Footer() {
             <h4 className="f-title">Pages</h4>
             <ul className="f-list">
               <li>
-                <Link href="/our-story" className="f-link">
+                <Link href="/about-us" className="f-link">
                   Our Story
                 </Link>
               </li>
@@ -84,7 +84,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/privacy-policy" className="f-link">
+                <Link href="/privacy" className="f-link">
                   Privacy Policy
                 </Link>
               </li>

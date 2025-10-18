@@ -2,7 +2,7 @@
   { "label": "Story", "href": "/about-us" },
   { "label": "Reservation", "href": "/reservation" },
   { "label": "Gallery", "href": "/gallery" },
-  { "label": "Blogs", "href": "/blogs" },
+  { "label": "Chefs", "href": "/our-chef" },
   { "label": "Contact us", "href": "/contact" },
   { "label": "Our Menu", "href": "/our-menu", "type": "cta" }
 ]

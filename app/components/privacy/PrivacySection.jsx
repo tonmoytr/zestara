@@ -1,11 +1,11 @@
-export default function PrivacyPolicy() {
+export default function PrivacySection() {
   return (
     <>
       {/* Title block */}
       <div className="page-title">
         <div className="w-layout-blockcontainer container w-container">
           <div className="title-wrap">
-            <h1 className="heading">Privacy Policy</h1>
+            {/* <h1 className="heading">Privacy Policy</h1> */}
             <p className="title-info">
               We value your trust — this Privacy Policy explains how{" "}
               <strong>zestara</strong> handles your personal data with care and

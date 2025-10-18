@@ -1,11 +1,11 @@
-export default function TermsConditions() {
+export default function TermsSection() {
   return (
     <>
       {/* Title block (same structure/classes as OG) */}
       <div className="page-title">
         <div className="w-layout-blockcontainer container w-container">
           <div className="title-wrap">
-            <h1 className="heading">Terms &amp; Conditions</h1>
+            {/* <h1 className="heading">Terms &amp; Conditions</h1> */}
             <p className="title-info">
               By accessing our restaurant services, you agree to our Terms &amp;
               Conditions, ensuring a smooth &amp; fair experience.
